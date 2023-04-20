@@ -96,6 +96,9 @@
 		ADB0DFF122AFA6090030352D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					top,
+				);
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = "London App Brewery";
